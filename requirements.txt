@@ -1,0 +1,6 @@
+ipython
+Pillow
+protobuf
+python-dotenv
+streamlit
+google-generativeai 
